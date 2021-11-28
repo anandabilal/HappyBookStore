@@ -8,7 +8,10 @@ Happy Book Store was built with Model View Controller (MVC) architecture.
 1. Install XAMPP, then start Apache and MySQL module (make sure these two modules are active, otherwise the application can't connect to the database and won't start).
 2. Go to http://localhost/phpmyadmin/.
 3. Create a database named 'happybookstoredb'.
-4. Open the project's directory in a terminal and run the command php artisan migrate:refresh, php artisan db:seed, and php artisan serve.
+4. Open the project's directory in a terminal and run the command: 
+- php artisan migrate:refresh (to migrate tables to the database)
+- php artisan db:seed (to fill those table with values)
+- php artisan serve
 5. Open the link given after the last command to open the web application.
 
 Below is the preview and/or flow of the application:
