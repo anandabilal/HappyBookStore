@@ -1,6 +1,6 @@
 # HappyBookStore
 
-Happy Book Store is a web application for seeing a store's books. As a user, you can look what book is available in the store by visiting the home page or by choosing a category, the web application will then redirect you to a page where only books associated with that category is shown, for example if you choose Fantasy category, the application will only show you Fantasy-genre books. This web application was made by HTML and CSS with PHP logic and Laravel 8 Framework that uses MySQL to connect to the database. 
+Happy Book Store is a simple web application for seeing a store's books. As a user, you can look what book is available in the store by visiting the home page or by choosing a category, the web application will then redirect you to a page where only books associated with that category is shown, for example if you choose Fantasy category, the application will only show you Fantasy-genre books. This web application was made by HTML and CSS with PHP logic and Laravel 8 Framework that uses MySQL to connect to the database. 
 
 Happy Book Store was built with Model View Controller (MVC) architecture.
 
